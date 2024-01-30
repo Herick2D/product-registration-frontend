@@ -12,11 +12,15 @@ estilização e layout em aplicações React.
    ```
    cd product-registration-frontend
    ```
-  3. Execute a aplicação:
+  3. instale as dependências
+     ```
+     npm install
+     ```
+  4. Execute a aplicação:
    ```
    npm run dev
    ```
-  4. Abra seu navegador e acesse http://localhost:5173/ para visualizar a aplicação.
+  5. Abra seu navegador e acesse http://localhost:5173/ para visualizar a aplicação.
 
 ## Observação
 Este projeto serve como uma demonstração e pode conter bugs e códigos não finalizados, uma vez que o foco
