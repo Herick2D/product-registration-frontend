@@ -13,9 +13,9 @@ estilização e layout em aplicações React.
    cd product-registration-frontend
    ```
   3. instale as dependências:
-    ```
-    npm install
-    ```
+     ```
+     npm install
+     ```
   4. Execute a aplicação:
    ```
    npm run dev
